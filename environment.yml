@@ -1,12 +1,6 @@
 channles:
-  - defaults
   - conda-forge
-  - ericmjl
 dependencies:
-  - python=3.8
-  - openbabel
-  - mopac
-  - pip
-  - pip:
-    - streamlit
+  - openbabel==3.1.1
+  - mopac==22.0.6
   
