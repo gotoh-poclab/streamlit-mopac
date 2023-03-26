@@ -1,5 +1,5 @@
 name: py38
-channles:
+channels:
   - conda-forge
 dependencies:
   - streamlit==1.20.0
