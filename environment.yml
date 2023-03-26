@@ -5,4 +5,4 @@ channels:
 dependencies:
   - numpy==1.18.1
   - openbabel==3.1.1
-#  - mopac==22.0.6
+  - mopac==22.0.6
