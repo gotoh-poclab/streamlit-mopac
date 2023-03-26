@@ -1,6 +1,7 @@
-name: py38
+name: streamlit-mopac
 channels:
   - conda-forge
+  - defaults
 dependencies:
   - streamlit==1.20.0
   - openbabel==3.1.1
